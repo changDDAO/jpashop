@@ -2,7 +2,7 @@ package jpabook.jpashop;
 
 
 import jpabook.jpashop.domain.Member;
-import jpabook.jpashop.domain.MemberRepository;
+import jpabook.jpashop.domain.Repository.MemberRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;
